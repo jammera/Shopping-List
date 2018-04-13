@@ -1,0 +1,15 @@
+.coolTitle {
+	font-size: 7em;
+	color: black;
+	text-align: center;
+	margin-top: 10%;
+	font-family: 'Oswald', sans-serif;transition: 1s;
+	}
+.coolTitle:hover {
+	color: red;
+	letter-spacing: 10px;
+}
+
+.done {
+	text-decoration: line-through;
+}
