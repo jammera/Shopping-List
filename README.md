@@ -2,13 +2,13 @@
 Simple listmaker
 
 # Todo
-Responsive design
-Undo/Redo buttons
+Responsive design,
+Undo/Redo buttons,
 Help (instructions)
 
 # Instructions
-Tap/Click to mark/unmark
-Double click to edit
+Tap/Click to mark/unmark,
+Double click to edit,
 Hold to delete
 
 # Like so:
